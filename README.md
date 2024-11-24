@@ -95,6 +95,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Siddhartha80/Siddhartha80/output/snake.svg" alt="Snake animation" />
-![snake gif](https://github.com/Siddhartha80/Siddhartha80/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
