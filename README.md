@@ -2,7 +2,6 @@
 
 **M.S. Data Science student at Arizona State University** (Tempe, AZ, expected Spring 2028) with a B.Tech in Artificial Intelligence from Amrita Vishwa Vidyapeetham. I build and evaluate machine learning and deep learning pipelines end to end, from data processing and model training to deployment-ready analysis, across research, internship, and Kaggle competition settings.
 
-I'm seeking a **Summer 2027 full-time internship in AI/ML Engineering or Data Science**.
 
 <p>
   <a href="https://www.linkedin.com/in/siddhartha-mettu"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="LinkedIn" /></a>
