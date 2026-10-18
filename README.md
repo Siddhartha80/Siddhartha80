@@ -12,13 +12,14 @@ I'm seeking a **Summer 2027 full-time internship in AI/ML Engineering or Data Sc
 
 ## 🔬 Research and publications
 
-Three peer-reviewed publications in deep learning, computer vision, and NLP:
+Four publications in deep learning, computer vision, NLP, and applied data analysis:
 
 | Year | Title | Venue |
 | --- | --- | --- |
-| 2024 | A Residual Network and BiLSTM-Based Hybrid Approach to Remote Sensing Image Captioning | Procedia Computer Science (Elsevier) |
-| 2024 | Sentiment Analysis and Likes Prediction from Social Media Comments: An ML Approach | IEEE |
-| 2024 | Pattern Recognition in Lung Disease Classification: Leveraging CNN that Employs LPQ Features | IEEE |
+| 2025 | [Evaluating the Effectiveness of Leading Job Portals: A Cross-Platform Analysis](https://www.scitepress.org/Papers/2025/135984/135984.pdf) ([DOI](https://doi.org/10.5220/0013598400004664)) | INCOFT 2025 (3rd International Conference on Futuristic Technology), SCITEPRESS |
+| 2024 | [A Residual Network and BiLSTM-Based Hybrid Approach to Remote Sensing Image Captioning](https://www.sciencedirect.com/science/article/pii/S1877050925013006) | Procedia Computer Science (Elsevier) |
+| 2024 | [Sentiment Analysis and Likes Prediction from Social Media Comments: An ML Approach](https://ieeexplore.ieee.org/abstract/document/10725921) | IEEE |
+| 2024 | [Pattern Recognition in Lung Disease Classification: Leveraging CNN that Employs LPQ Features](https://ieeexplore.ieee.org/abstract/document/10725144) | IEEE, ICCCNT 2024 |
 
 ## 🧪 Selected projects
 
