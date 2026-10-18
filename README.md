@@ -94,8 +94,4 @@ Four publications in deep learning, computer vision, NLP, and applied data analy
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddhartha80&layout=compact&card_width=320&langs_count=5&bg_color=FBFAFF&title_color=5B6C8F&text_color=3D4A5C&border_color=E4E0F5" height="150" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Siddhartha80/Siddhartha80/output/snake.svg" alt="Contribution snake animation" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DCEBFF&section=footer" width="100%" alt="" />
