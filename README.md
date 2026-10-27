@@ -78,6 +78,6 @@ A modification of the IEEE 802.11 MAC collision-resolution logic so nodes skip t
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha80&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddhartha80&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhartha80&theme=monokai" height="150" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddhartha80&theme=monokai" height="150" alt="Most used languages" />
 </p>
